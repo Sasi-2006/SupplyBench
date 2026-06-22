@@ -1,0 +1,14 @@
+# config.yaml
+
+n_splits: 5
+
+datasets:
+  - DataCo
+  - Rossmann
+
+models:
+  - ARIMA
+  - ETS
+  - XGBoost
+  - Prophet
+  - LSTM
