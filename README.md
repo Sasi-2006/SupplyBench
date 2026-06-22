@@ -140,7 +140,7 @@ Used for:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/SupplyBench.git
+git clone https://github.com/Sasi-2006/SupplyBench.git
 
 cd SupplyBench
 ```
